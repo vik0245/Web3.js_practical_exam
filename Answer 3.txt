@@ -1,0 +1,8 @@
+check the account balances with the help of Web3.js:-
+                                                                                     Web3.js can be used in the front-end and back-end to check account balances, read data from the blockchain, make transactions, and evn deploy smart contracts.
+Now that all of your dependencies are installed, let's walk through how you can check your account balance with web3.js.
+First , you should fire up the Node console in your teminal like this:
+node:-
+          Now you've got the Node console open! inside the Node console, you can require web3.js like this:
+const web3 = require('web3');
+Now, you have access to a variable where you can create a new web3 connection.    

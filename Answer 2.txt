@@ -1,0 +1,5 @@
+Web2 is the current Internet period, starting from 2004, when websites became more interactive, allowing useres to create their content.
+                               web2 is when the Internet developed into a more open, accessible, and monetizable platform. People could earn money through web2.
+
+That's when web3 came in demand. decentralization of the Internet fundamentally means that no one company will keep and use your data. It will be stored on the blockchain, secured by cryptography.
+                                                                                                                                      web3 is turing- complete, meaning anyone can program anything. No need for permission and no denial of access.    
